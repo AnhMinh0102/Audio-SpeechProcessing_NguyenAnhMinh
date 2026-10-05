@@ -1,0 +1,6 @@
+﻿Experiment,Accuracy (%)
+Baseline - MFCC 13 + Endpoint,70.0
+E1 - No Endpoint,70.0
+E1 - With Endpoint,70.0
+E2 - MFCC 13,70.0
+E2 - MFCC 13 + Delta,80.0
