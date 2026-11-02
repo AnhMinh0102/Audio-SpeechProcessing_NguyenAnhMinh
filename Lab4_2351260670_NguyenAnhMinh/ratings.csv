@@ -1,0 +1,16 @@
+﻿listener_id,sentence,method,intelligibility,naturalness,continuity,overall_mos
+L01,Câu 1,Concatenation,5,3,4,3.7
+L01,Câu 1,HMM_Parametric,4,2,4,3.0
+L01,Câu 1,Neural_TTS,5,5,5,5.0
+L02,Câu 1,Concatenation,5,4,4,4.0
+L02,Câu 1,HMM_Parametric,3,3,3,3.0
+L02,Câu 1,Neural_TTS,5,5,5,5.0
+L03,Câu 1,Concatenation,4,3,3,3.3
+L03,Câu 1,HMM_Parametric,4,2,4,3.0
+L03,Câu 1,Neural_TTS,5,5,5,5.0
+L01,Câu 2,Concatenation,5,4,4,4.0
+L01,Câu 2,HMM_Parametric,4,3,4,3.3
+L01,Câu 2,Neural_TTS,5,5,5,5.0
+L01,Câu 3,Concatenation,5,3,4,3.7
+L01,Câu 3,HMM_Parametric,3,2,3,2.7
+L01,Câu 3,Neural_TTS,5,5,5,5.0
